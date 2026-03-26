@@ -14,9 +14,6 @@ Download academic paper PDFs from multiple sources with automatic fallback strat
   7. Sci-Hub (last resort)
 
 - **~70-90% success rate** depending on paper types
-- **Resume support** - interrupt anytime with Ctrl+C, resume later
-- **Skip existing** - won't re-download papers you already have
-- **Flexible input** - accepts DOI list (.txt) or CSV with doi/pmid/pmcid
 
 ## Installation
 
